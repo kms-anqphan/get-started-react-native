@@ -1,0 +1,10 @@
+const COLORS = {
+  BACKGROUND: "#E8EAED",
+  WHITE: "#FFF",
+  LIGHTER_BLUE: "#D2EEEF",
+  BLUE: "#55BCF6",
+  GREY: "#E8E8ED",
+  DARKER_GREY: "#808080",
+};
+
+export { COLORS };
